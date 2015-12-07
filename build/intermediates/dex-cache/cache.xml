@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/yukkan/AndroidStudioProjects/FlipMemo2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/yukkan/AndroidStudioProjects/FlipMemo2/app/build/intermediates/pre-dexed/debug/classes-4b0c2fa380e4873be030c7c8d9877ff08347b38d.jar" />
+    </item>
+    <item
+        jar="/home/yukkan/AndroidStudioProjects/FlipMemo2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5bdb38b7e4b6094891648c1dc4dc08589b460f97">
+        <dex dex="/home/yukkan/AndroidStudioProjects/FlipMemo2/app/build/intermediates/pre-dexed/debug/classes-870900eca2c9b93d31e98250434a4cb9be8ab5ba.jar" />
+    </item>
+    <item
+        jar="/home/yukkan/AndroidStudioProjects/FlipMemo2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/yukkan/AndroidStudioProjects/FlipMemo2/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-a71839b4a9a3a5c65bd1afa72c0ca65f07be48c1.jar" />
+    </item>
+    <item
+        jar="/home/yukkan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/home/yukkan/AndroidStudioProjects/FlipMemo2/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-39f674d8e4525e5b1edbae203c68477ff52bf970.jar" />
+    </item>
+    <item
+        jar="/home/yukkan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/yukkan/AndroidStudioProjects/FlipMemo2/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-c44a54a6548968172248817f52ae4d0a8227f07f.jar" />
+    </item>
+
+</items>

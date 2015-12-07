@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlipMemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1498460280483878</string>
+    <string name="title_activity_web_view">WebView</string>
+
+</resources>
